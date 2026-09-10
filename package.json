@@ -63,7 +63,7 @@
     "typescript-eslint": "^8.61.1",
     "vite": "^6.4.3",
     "vite-plugin-singlefile": "^2.3.3",
-    "vitest": "^4.1.9"
+    "vitest": "^4.1.11"
   },
   "engines": {
     "node": ">=20.18.1"
